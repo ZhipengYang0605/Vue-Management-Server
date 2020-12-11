@@ -6,23 +6,17 @@
 
 1.2 安装成功后启动， 按照如下进行连接数据库
 
-[img]http://chuantu.xyz/t6/741/1607692213x989559133.png[/img]
+![第一步](http://chuantu.xyz/t6/741/1607692213x989559133.png)
 
-<img src=".\连接数据库用的App\1.png" alt="1" style="zoom:50%;" />
+![第二步](http://chuantu.xyz/t6/741/1607692446x1700340465.png)
 
-
-
-<img src=".\连接数据库用的App\2.png" />
-
-
-
-![](.\连接数据库用的App\3.png)
+![第三步](http://chuantu.xyz/t6/741/1607692488x992245862.png)
 
 下面这个界面过一会自己会关闭
 
-<img src=".\连接数据库用的App\4.png" style="zoom:80%;" />
+![第四步](http://chuantu.xyz/t6/741/1607692533x992245862.png)
 
-![](.\连接数据库用的App\5.png)
+![第五步](http://chuantu.xyz/t6/741/1607692571x992245862.png)
 
 1.3 cd到目录vue_api_server
 
