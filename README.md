@@ -6,6 +6,10 @@
 
 1.2 安装成功后启动， 按照如下进行连接数据库
 
+![test1](https://github.com/ZhipengYang0605/Vue-Management-Server/raw/master/连接数据库用的App/1.png)
+
+![test2](https://github.com/ZhipengYang0605/Vue-Management-Server/连接数据库用的App/1.png)
+
 <img src=".\连接数据库用的App\1.png" alt="1" style="zoom:50%;" />
 
 
